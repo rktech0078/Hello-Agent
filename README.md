@@ -31,8 +31,8 @@ Alhamdulillah! This is my first AI agent project — a command-line based conver
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/hello-agent
-cd hello-agent
+git clone https://github.com/rktech0078/Hello-Agent/
+cd Hello-Agent
 ```
 
 ### 2. Create & activate virtual environment (optional but recommended)
