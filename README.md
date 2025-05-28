@@ -68,8 +68,6 @@ python hello_agent.py
 
 ## 📸 Demo Screenshot
 
-> ## 📸 Demo Screenshot
-
 ![Agent Demo](pic-1.png)
 
 
