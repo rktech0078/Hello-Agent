@@ -1,4 +1,4 @@
-# 🤖 Hello Agent — AI Assistant using Gemini & OpenRouter by ABDUL RAFAY
+# 🤖 Hello Agent — AI Assistant using Gemini & OpenRouter by ABDUL RAFAY KHAN
 
 Alhamdulillah! This is my first AI agent project — a command-line based conversational agent powered by both **Google Gemini** and **OpenRouter**. The agent behaves like a helpful assistant (in this case, a math teacher) and can respond to your input intelligently using powerful LLMs.
 
@@ -102,5 +102,6 @@ Agent: The square root of 144 is 12.
 ## 📜 License
 
 This project is open-source and free to use under the MIT License.
+
 
 
